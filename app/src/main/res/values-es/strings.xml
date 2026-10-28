@@ -31,12 +31,12 @@
     <string name="setup_location">Servicios de ubicación</string>
     <string name="location_access_summary"><b>Permitir que las aplicaciones que te hayan pedido permiso</b> utilicen tu información de ubicación. Esto puede incluir tu ubicación actual y ubicaciones anteriores.</string>
     <string name="location_agps_access_summary">Cuando la ubicación está activada en <b>Descargar datos de asistencia por satélite de Internet</b>, puede mejorar en gran medida el rendimiento de arranque del GPS.</string>
-    <string name="update_recovery_title">Actualizar el modo de recuperación de Lineage</string>
-    <string name="update_recovery_description">Actualiza el modo de recuperación de Lineage en el primer arranque posterior a cada actualización.</string>
+    <string name="update_recovery_title">Actualizar el modo de recuperación de LOSP</string>
+    <string name="update_recovery_description">Actualiza el modo de recuperación de LOSP en el primer arranque posterior a cada actualización.</string>
     <string name="update_recovery_warning">El modo de recuperación se actualizará tan pronto como finalice la configuración. Si deseas mantenerlo intacto, desactiva esta función.</string>
-    <string name="update_recovery_setting">Actualizar el modo de recuperación de Lineage junto con el sistema operativo</string>
+    <string name="update_recovery_setting">Actualizar el modo de recuperación de LOSP junto con el sistema operativo</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
-    <string name="setup_services">Características de LineageOS</string>
+    <string name="setup_services">Additional settings</string>
     <string name="services_pp_explanation">Estos servicios sirven para extender las capacidades de tu dispositivo. Los datos se utilizarán de acuerdo a la política de privacidad de <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
     <string name="services_help_improve_cm">Ayuda a mejorar <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
     <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> enviando automáticamente datos de diagnóstico y uso a <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Esta información no puede usarse para identificarte y ayuda a los equipos que trabajan en aspectos como la duración de la batería, el rendimiento de la aplicación y las nuevas funciones de <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
