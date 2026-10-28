@@ -6,11 +6,6 @@
 <ItemGroup xmlns:android="http://schemas.android.com/apk/res/android">
 
     <SwitchItem
-        android:id="@+id/metrics_item"
-        android:layout="@layout/setup_items_switch"
-        android:title="@string/services_metrics_title" />
-
-    <SwitchItem
         android:id="@+id/nav_keys_item"
         android:layout="@layout/setup_items_switch"
         android:title="@string/services_os_nav_keys_label" />
